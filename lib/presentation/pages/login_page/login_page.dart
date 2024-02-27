@@ -1,7 +1,8 @@
-import 'package:flix_id/domain/usecases/login/login.dart';
-import 'package:flix_id/presentation/providers/usecases/login_provider.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
+
+import '../../../domain/usecases/login/login.dart';
+import '../../providers/usecases/login_provider.dart';
 
 class LoginPage extends ConsumerWidget {
   const LoginPage({super.key});

@@ -1,6 +1,5 @@
 // ignore_for_file: public_member_api_docs, sort_constructors_first
 import 'package:flix_id/data/repositories/movie_repository.dart';
-import 'package:flix_id/domain/entities/movie.dart';
 import 'package:flix_id/domain/entities/movie_detail.dart';
 import 'package:flix_id/domain/entities/result.dart';
 import 'package:flix_id/domain/usecases/get_movie_detail/get_movie_detail_param.dart';

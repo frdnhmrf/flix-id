@@ -1,9 +1,8 @@
 import '../../../data/repositories/authentication.dart';
 import '../../../data/repositories/user_repository.dart';
-import '../usecase.dart';
-
 import '../../entities/result.dart';
 import '../../entities/user.dart';
+import '../usecase.dart';
 
 part 'login_params.dart';
 

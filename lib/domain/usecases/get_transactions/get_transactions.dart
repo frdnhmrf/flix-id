@@ -1,5 +1,4 @@
 // ignore_for_file: public_member_api_docs, sort_constructors_first
-import 'package:flix_id/data/repositories/authentication.dart';
 import 'package:flix_id/data/repositories/transaction_repository.dart';
 import 'package:flix_id/domain/entities/result.dart';
 import 'package:flix_id/domain/entities/transaction.dart';
